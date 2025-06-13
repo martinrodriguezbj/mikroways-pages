@@ -2,954 +2,954 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/blog/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/blog/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/categories/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/categories/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/categories/"
                 />
   </url><url>
-    <loc>/blog/2023-08-30-terraform-with-sops/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2023-08-30-terraform-with-sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
   </url><url>
-    <loc>/categories/devsecops/</loc>
-    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/categories/devsecops/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/devsecops/"
-                />
-  </url><url>
-    <loc>/tags/encryption/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/categories/devsecops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/encryption/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/categories/devsecops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/encryption/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/categories/devsecops/"
                 />
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/encryption/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/git/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/encryption/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/git/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/encryption/"
                 />
   </url><url>
-    <loc>/tags/infrastructure/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/git/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/infrastructure/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/infrastructure/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/git/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/infrastructure/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/infrastructure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/infrastructure/"
                 />
   </url><url>
-    <loc>/tags/sops/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/sops/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/sops/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/sops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/sops/"
                 />
   </url><url>
-    <loc>/tags/terraform/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/terraform/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/terraform/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/"
                 />
   </url><url>
-    <loc>/tags/version/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/terraform/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/version/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/terraform/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/version/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/terraform/"
                 />
   </url><url>
-    <loc>/tags/cache/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/version/</loc>
+    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/version/"
+                />
+  </url><url>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/cache/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/cache/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/cache/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/cache/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/cache/"
                 />
   </url><url>
-    <loc>/tags/crio/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/crio/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/crio/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/crio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/crio/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/crio/"
                 />
   </url><url>
-    <loc>/tags/harbor/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/harbor/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/harbor/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/harbor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/harbor/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/harbor/"
                 />
   </url><url>
-    <loc>/blog/2023-08-25-harbor-in-okd/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2023-08-25-harbor-in-okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/okd/</loc>
-    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/okd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/okd/"
-                />
-  </url><url>
-    <loc>/tags/openshift/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/openshift/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/okd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/openshift/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/okd/"
                 />
   </url><url>
-    <loc>/tags/redhat/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/openshift/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/redhat/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/openshift/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/redhat/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/openshift/"
                 />
   </url><url>
-    <loc>/tags/registry-mirror/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/redhat/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/registry-mirror/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/redhat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/registry-mirror/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/redhat/"
                 />
   </url><url>
-    <loc>/tags/automation/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/registry-mirror/</loc>
+    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/registry-mirror/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/registry-mirror/"
+                />
+  </url><url>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/automation/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/capistrano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/capistrano/"
-                />
-  </url><url>
-    <loc>/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-  </url><url>
-    <loc>/tags/gitlab-ci/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/capistrano/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/gitlab-ci/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/capistrano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/gitlab-ci/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/capistrano/"
                 />
   </url><url>
-    <loc>/blog/2022-01-28-task-automation-using-capistrano/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+  </url><url>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/gitlab-ci/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/gitlab-ci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/gitlab-ci/"
+                />
+  </url><url>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2022-01-28-task-automation-using-capistrano/</loc>
     <lastmod>2022-01-28T11:06:24-03:00</lastmod>
   </url><url>
-    <loc>/tags/containerd/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/containerd/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/containerd/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/containerd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/containerd/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/containerd/"
                 />
   </url><url>
-    <loc>/blog/2021-12-30-containerd-with-harbor/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-12-30-containerd-with-harbor/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/images/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/images/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/images/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/images/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/images/"
                 />
   </url><url>
-    <loc>/blog/2021-12-29-crio-with-harbor/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-12-29-crio-with-harbor/</loc>
     <lastmod>2021-12-29T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/dex/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/dex/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/dex/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/dex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/dex/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/dex/"
                 />
   </url><url>
-    <loc>/tags/docker-compose/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/docker-compose/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/docker-compose/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/docker-compose/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/docker-compose/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/docker-compose/"
                 />
   </url><url>
-    <loc>/tags/traefik/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/traefik/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/traefik/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/traefik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/traefik/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/traefik/"
                 />
   </url><url>
-    <loc>/blog/2021-12-23-use-harbor-as-image-cache/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-12-23-use-harbor-as-image-cache/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/ansible/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/ansible/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/ansible/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/ansible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/ansible/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/ansible/"
                 />
   </url><url>
-    <loc>/tags/clusterapi/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/clusterapi/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/clusterapi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/clusterapi/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/clusterapi/"
                 />
   </url><url>
-    <loc>/blog/2021-11-03-kubernetes-clusterapi/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-11-03-kubernetes-clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>/tags/kubernetes/</loc>
-    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/kubernetes/"
-                />
-  </url><url>
-    <loc>/tags/vmware/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/kubernetes/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/vmware/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/vmware/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/kubernetes/"
                 />
   </url><url>
-    <loc>/tags/vsphere/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/vmware/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/vsphere/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/vmware/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/vsphere/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/vmware/"
                 />
   </url><url>
-    <loc>/tags/aws/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/vsphere/</loc>
+    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/vsphere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/vsphere/"
+                />
+  </url><url>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/aws/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/tags/aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/aws/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/tags/aws/"
                 />
   </url><url>
-    <loc>/categories/mikroways/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/categories/mikroways/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/categories/mikroways/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/categories/mikroways/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/mikroways/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/categories/mikroways/"
                 />
   </url><url>
-    <loc>/blog/2021-10-04-consulting-partner-select-aws/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-10-04-consulting-partner-select-aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/blog/2021-10-04-consulting-partner-select-aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/blog/2021-10-04-consulting-partner-select-aws/"
                 />
   </url><url>
-    <loc>/tags/news/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/tags/news/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>/portfolio/banco-columbia/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/banco-columbia/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/banco-columbia/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/banco-columbia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/banco-columbia/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/banco-columbia/"
                 />
   </url><url>
-    <loc>/portfolio/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/"
                 />
   </url><url>
-    <loc>/portfolio/balanz/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/balanz/</loc>
     <lastmod>1970-01-01T00:00:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/balanz/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/balanz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/balanz/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/balanz/"
                 />
   </url><url>
-    <loc>/portfolio/automatizacion-vt/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/automatizacion-vt/</loc>
     <lastmod>1970-01-01T00:00:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/automatizacion-vt/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/automatizacion-vt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/automatizacion-vt/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/automatizacion-vt/"
                 />
   </url><url>
-    <loc>/portfolio/monitoreo-senasa/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/monitoreo-senasa/</loc>
     <lastmod>1970-01-01T00:00:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/monitoreo-senasa/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/monitoreo-senasa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/monitoreo-senasa/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/monitoreo-senasa/"
                 />
   </url><url>
-    <loc>/portfolio/circular-lab-costos/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/circular-lab-costos/</loc>
     <lastmod>1970-01-01T00:00:02+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/circular-lab-costos/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/circular-lab-costos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/circular-lab-costos/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/circular-lab-costos/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/contact/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/contact/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/contact/"
                 />
   </url><url>
-    <loc>/portfolio/bluedraft-cicd/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/portfolio/bluedraft-cicd/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/bluedraft-cicd/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/portfolio/bluedraft-cicd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/bluedraft-cicd/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/portfolio/bluedraft-cicd/"
                 />
   </url><url>
-    <loc>/ebooks/ebook2024/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/ebooks/ebook2024/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/ebooks/ebook2024/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/ebooks/ebook2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/ebooks/ebook2024/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/ebooks/ebook2024/"
                 />
   </url><url>
-    <loc>/ebooks/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/ebooks/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/ebooks/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/ebooks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/ebooks/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/ebooks/"
                 />
   </url><url>
-    <loc>/contact/succesful/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/contact/succesful/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/contact/succesful/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/contact/succesful/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/succesful/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/contact/succesful/"
                 />
   </url><url>
-    <loc>/apply/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/apply/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/apply/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/apply/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/apply/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/apply/"
                 />
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/author/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/author/"
                 />
   </url><url>
-    <loc>/business-continuity/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/business-continuity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/business-continuity/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/business-continuity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/business-continuity/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/business-continuity/"
                 />
   </url><url>
-    <loc>/training/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/training/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/training/"
                 />
   </url><url>
-    <loc>/career/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/career/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/career/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/career/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/career/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/career/"
                 />
   </url><url>
-    <loc>/cloud-native-architecture/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/cloud-native-architecture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/cloud-native-architecture/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/cloud-native-architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/cloud-native-architecture/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/cloud-native-architecture/"
                 />
   </url><url>
-    <loc>/containerization-and-orchestration/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/containerization-and-orchestration/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/containerization-and-orchestration/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/containerization-and-orchestration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/containerization-and-orchestration/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/containerization-and-orchestration/"
                 />
   </url><url>
-    <loc>/continuous-integration-and-deployment/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/continuous-integration-and-deployment/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/continuous-integration-and-deployment/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/continuous-integration-and-deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/continuous-integration-and-deployment/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/continuous-integration-and-deployment/"
                 />
   </url><url>
-    <loc>/cybersecurity/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/cybersecurity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/cybersecurity/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/cybersecurity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/cybersecurity/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/cybersecurity/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-junior/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-junior/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-junior/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/work-with-us/devops-engineer-junior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-junior/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-junior/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-ssr/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-ssr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-ssr/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/work-with-us/devops-engineer-ssr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-ssr/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-ssr/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-trainee/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-trainee/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-trainee/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/work-with-us/devops-engineer-trainee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-trainee/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/devops-engineer-trainee/"
                 />
   </url><url>
-    <loc>/digital-transformation/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/digital-transformation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/digital-transformation/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/digital-transformation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/digital-transformation/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/digital-transformation/"
                 />
   </url><url>
-    <loc>/faq/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/faq/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/faq/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/faq/"
                 />
   </url><url>
-    <loc>/training/docker/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/training/docker/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/docker/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/training/docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/docker/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/training/docker/"
                 />
   </url><url>
-    <loc>/training/kubernetes/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/training/kubernetes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/kubernetes/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/training/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/kubernetes/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/training/kubernetes/"
                 />
   </url><url>
-    <loc>/infrastructure-provisioning/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/infrastructure-provisioning/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/infrastructure-provisioning/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/infrastructure-provisioning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/infrastructure-provisioning/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/infrastructure-provisioning/"
                 />
   </url><url>
-    <loc>/author/john-doe/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/author/john-doe/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/john-doe/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/author/john-doe/"
                 />
   </url><url>
-    <loc>/monitoring-and-observability/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/monitoring-and-observability/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/monitoring-and-observability/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/monitoring-and-observability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/monitoring-and-observability/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/monitoring-and-observability/"
                 />
   </url><url>
-    <loc>/our-culture/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/our-culture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/our-culture/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/our-culture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/our-culture/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/our-culture/"
                 />
   </url><url>
-    <loc>/clients/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/clients/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/clients/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/clients/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/clients/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/clients/"
                 />
   </url><url>
-    <loc>/platform-engineering/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/platform-engineering/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/platform-engineering/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/platform-engineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/platform-engineering/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/platform-engineering/"
                 />
   </url><url>
-    <loc>/pricing/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/pricing/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/pricing/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/pricing/"
                 />
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/privacy-policy/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/privacy-policy/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/privacy-policy/"
                 />
   </url><url>
-    <loc>/professional-services/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/professional-services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/professional-services/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/professional-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/professional-services/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/professional-services/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/about/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/about/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/about/"
                 />
   </url><url>
-    <loc>/team/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/team/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/team/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/team/"
                 />
   </url><url>
-    <loc>/work-with-us/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/work-with-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/work-with-us/"
                 />
   </url><url>
-    <loc>/training/wfc/</loc>
+    <loc>https://martinrodriguezbj.github.io/mikroways-pages/training/wfc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/wfc/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/es/training/wfc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/wfc/"
+                href="https://martinrodriguezbj.github.io/mikroways-pages/training/wfc/"
                 />
   </url>
 </urlset>
