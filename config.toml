@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://martinrodriguezbj.github.io/mikroways-pages/"
 title = "Mikroways"
 theme = "bizcraft-hugo"
 # post pagination
